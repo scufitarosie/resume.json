@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "Gabriel Dulinszky",
+    "label": "Escalation & Supportability Sepcialist",
+    "image": "",
+    "email": "gabriel.dulinszky@gmail.com",
+    "phone": "0743362008"
+    "location": {
+      "city": "Bucharest",
+      "countryCode": "RO",
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "scufita_rosie",
+      "url": "https://twitter.com/scufita_rosie"
+    }]
+  },
+  "work": [{
+    "name": "Hootsuite",
+    "position": "Escalation & Supportability Specialist II",
+    "url": "https://hootsuite.com",
+    "startDate": "2015-02-01",
+    "summary": "Responsible with documenting internally product releases and limitations.
+Working closely with the product and development teams on addressing product defects and evaluating feature enhancements.
+Handle bug triage and complex level 2 escalations.
+Work closely with product and development teams on identifying possible product defects or documentation enhancement opportunities."
+  }],
+  "education": [{
+    "institution": "College",
+    "area": "Electromechanics",
+    "startDate": "1999",
+    "endDate": "2003",
+    "score": "4.0",
+  }],
+  "certificates": [{
+    "name": "Postman Student Expert",
+    "date": "2020-11-01",
+    "issuer": "Postman",
+    "url": "https://api.badgr.io/public/assertions/E3OOmfRiRfWGaz20fAUgnw?identity__email=gabriel.dulinszky%40gmail.com"
+  }],
+  [{
+    "name": "Hootsuite Platform certifications",
+    "date": "2016-11-01",
+    "issuer": "Hootsuite",
+    "url": "https://www.accredible.com/10397319"
+  }],
+  [{
+    "name": "SumoLogic Fundamentals",
+    "date": "2021-01-01",
+    "issuer": "SumoLogic",
+    "url": "https://verify.skilljar.com/c/tyb6wb3ayv6y"
+  }],
+  [{
+    "name": "SumoLogic Certified Administrator",
+    "date": "2020-01-01",
+    "issuer": "SumoLogic",
+    "url": "https://verify.skilljar.com/c/f4mi7iqxi4pa"
+  }],
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Proficient"
+  }],
+  [{
+    "language": "Italian",
+    "fluency": "Proficient"
+  }],
+   [{
+    "language": "Romanian",
+    "fluency": "Native Speaker"
+  }],
+    "entity": "Entity",
+    "type": "application"
+  }]
+}
